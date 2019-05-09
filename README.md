@@ -11,4 +11,5 @@ Programmes focuse on:
 -logistic map
 -basin of attraction
 -errors analysis
+
 The description is in Polish. Programmes in C language
